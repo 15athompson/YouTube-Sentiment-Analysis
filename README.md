@@ -1,14 +1,52 @@
-# YouTube-Sentiment-Analysis
+# YouTube Sentiment Analysis Tool
 
-Description:
-This script is for extracting comments from YouTube videos using the YouTube Data API. The code imports necessary libraries, configures API access with an API key, and defines functions to retrieve comments for a specific video. Here is a summary of the key components and functionalities of the code:
+This tool analyzes the sentiment of comments on a YouTube video using the YouTube Data API and NLTK's VADER sentiment analyzer.
 
-Imports: The code imports essential libraries, including os for operating system-related functions, googleapiclient.discovery for interacting with the YouTube Data API, and dotenv for loading environment variables.
+## Setup
 
-API Key Configuration: The code loads an API key from environment variables to authenticate and access the YouTube Data API.
+1. Clone this repository:
+   ```
+   git clone https://github.com/yourusername/youtube-sentiment-analysis.git
+   cd youtube-sentiment-analysis
+   ```
 
-Comment Retrieval Function: The get_comments function fetches comments from a specified YouTube video using the YouTube Data API. It paginates through the comments to ensure that all comments are retrieved.
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
 
-Main Function: The main function configures the YouTube Data API client with the provided API key and uses the get_comments function to extract comments for a given video.
+3. Set up a YouTube Data API key:
+   - Go to the [Google Developers Console](https://console.developers.google.com/)
+   - Create a new project or select an existing one
+   - Enable the YouTube Data API v3
+   - Create credentials (API key)
+   - Set the API key as an environment variable:
+     ```
+     export YOUTUBE_API_KEY='your-api-key-here'
+     ```
 
-Video Comment Retrieval Function: The get_video_comments function serves as an entry point for retrieving comments for a specific video. It calls the main function with the video ID and API key, and returns the comments as a result.
+## Usage
+
+Run the script with a YouTube video ID as an argument:
+
+```
+python main.py VIDEO_ID
+```
+
+Replace `VIDEO_ID` with the ID of the YouTube video you want to analyze. The video ID is the value of the 'v' parameter in the video's URL. For example, if the video URL is `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, the video ID would be `dQw4w9WgXcQ`.
+
+## Output
+
+The tool will print the sentiment analysis results, including:
+- The total number of comments analyzed
+- The percentage of positive, neutral, and negative comments
+
+## Limitations
+
+- The tool is limited by the YouTube API's quota and rate limits.
+- Sentiment analysis is performed using a pre-trained model and may not always accurately capture the intended sentiment, especially for complex or nuanced comments.
+- The tool currently analyzes only the top-level comments and does not include replies.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
