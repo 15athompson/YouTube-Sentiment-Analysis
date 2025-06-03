@@ -1,0 +1,361 @@
+comment,sentiment_scores,sentiment,subjectivity,word_count
+"Thanks for watching! Feel free to upvote the kaggle notebook if you found it helpful! 
+Kaggle notebook: https://www.kaggle.com/kenjee/titanic-project-example
+My Kaggle Profile: https://www.kaggle.com/kenjee
+Try watching my kaggle project from scratch series next! https://www.youtube.com/watch?v=r-DR9HBaipU&ab_channel=KenJee","{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.8713}",Positive,0.3333333333333333,37
+"As a complete beginner, can anyone tell which topics should I learn before trying these types of competition.. anyone?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.4,19
+The letters in the cabin correspond to the deck.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,9
+"Kaggle is the creepiest organisation that has ever existed. In order to verify you for competitions with prize money they want a 3D model of your head!!! Wow! 
+
+Let me repeat in case you think you miss read what I typed
+
+KAGGLE WANTS a 3D MODEL OF YOUR HEAD!!!!
+
+What are they doing with all those heads?!????? An AI company that harvests human heads!!!","{'neg': 0.023, 'neu': 0.825, 'pos': 0.152, 'compound': 0.8729}",Positive,0.4000000000000001,64
+Thanks! It was insightful and too the point. A lecturer pointed to this website. I'm just starting off but haven't put my learnings together such as this video shows. Now I'm aware I have more self teaching to do,"{'neg': 0.0, 'neu': 0.941, 'pos': 0.059, 'compound': 0.3054}",Positive,0.31,42
+thanks for this video. Just started this problem and realized I have no idea what I'm doing,"{'neg': 0.251, 'neu': 0.612, 'pos': 0.137, 'compound': -0.3453}",Negative,0.2,18
+"Aren't some fields ""redundant""? I mean, female with one spouse is almost automatically a ""Mrs."" and I don't know whether that leads to a bias or not. Thank you","{'neg': 0.132, 'neu': 0.868, 'pos': 0.0, 'compound': -0.3632}",Negative,0.3513888888888889,31
+"I took several days and went through this.  It was a good starting point.  You simply can't learn it all in a few days.  As Ken said, this is to be used as a framework.  Learning the various models and the revaluations are extremely important","{'neg': 0.0, 'neu': 0.887, 'pos': 0.113, 'compound': 0.6115}",Positive,0.37959183673469393,46
+Thanks for your great tutorial on youtube! I have a question In regrading to this analysis. In 24:40 you start talking about cross validation. I'm not sure If I clear understand your code here. You're making cross validation on X_train /y_train data set? Is this correct aproach? Or we should do this on whole data set X/y?,"{'neg': 0.067, 'neu': 0.807, 'pos': 0.126, 'compound': 0.6894}",Positive,0.3746031746031746,59
+very good!,"{'neg': 0.0, 'neu': 0.223, 'pos': 0.777, 'compound': 0.54}",Positive,0.7800000000000001,2
+"so much emphasis on the model, not enough on the data..","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.35,11
+I scored 0.69 in my first kaggle competition 🥹,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.3333333333333333,9
+"Good to know, in a sinking ship, you have more chances of survival if you're rich or a woman, or a rich woman is even better perhaps. Damn, seeing as I am a poor man, I'm never going to travel by ship. EVER 🤣","{'neg': 0.112, 'neu': 0.597, 'pos': 0.291, 'compound': 0.8516}",Positive,0.6166666666666667,46
+"Actually Capt is not for the captain of the ship it seems , after some internet search i found out that Capt is referred to a different captain that was onboard the titanic as a passenger who unfortunatly lost his life in the sinking.","{'neg': 0.056, 'neu': 0.944, 'pos': 0.0, 'compound': -0.3182}",Negative,0.35,43
+can someone pls explain what is the meaning of len(x.split(' '))......in cabin column?,"{'neg': 0.0, 'neu': 0.902, 'pos': 0.098, 'compound': 0.0772}",Positive,0.0,14
+Great video! Iwas super clueless before this video but after watching it i became much less clueless but also found out that i was even more clueless haha! I just moved over from c to python and see a lot of not so familiar python code(i only have the basics😭). Can you tell me what parts of python i had to go through to start with? Thanks again for the video!,"{'neg': 0.103, 'neu': 0.721, 'pos': 0.176, 'compound': 0.7841}",Positive,0.4979166666666667,72
+"Wow this is a gold mine! Can't believe you went through all that work! Looking through all this, it seems like to become a great data scientist, it's not just about the skill. It is about intelligence and your ability to understand and see things that aren't clear to the normal human being. I have a fairly normal IQ and i am currently wondering if i should continue building my skills in order to become a data scientist.","{'neg': 0.026, 'neu': 0.778, 'pos': 0.196, 'compound': 0.9349}",Positive,0.5619047619047619,81
+I will try this very soon. Bookmarking this,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.3,8
+Bless me for my success 🔥🇮🇳🙏,"{'neg': 0.0, 'neu': 0.381, 'pos': 0.619, 'compound': 0.7579}",Positive,0.0,6
+"I am trying to understand the one-hot encoder method you suggested around 22:03, applying this method to real-world datasets. I ran into this issue before and had to merge train and test data sets to be able to apply a one-hot encoder. What is the solution to the issue of not having the same columns when we apply a one-hot encoder to train and test sets separately? I don't know how to approach that.","{'neg': 0.0, 'neu': 0.967, 'pos': 0.033, 'compound': 0.3182}",Positive,0.375,75
+"there too many ""ACTUALLY"" in the video lol. its totally fine tho","{'neg': 0.0, 'neu': 0.671, 'pos': 0.329, 'compound': 0.5984}",Positive,0.44999999999999996,12
+❤,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,1
+"What an in-depth analysis!  
+By the way,  how many possible approaches are there to this dataset?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.75,16
+I am new in the field of data science in terms of experience. I have completed paid skill course from IBM though. In my first attempt of this project which is my first project i got an accuracy of 78%. Is it good enough and should i move on to next project or try to refine my model for better accuracy. Please suggest someone with experience,"{'neg': 0.0, 'neu': 0.879, 'pos': 0.121, 'compound': 0.7964}",Positive,0.3887445887445887,66
+Thanks for the great efforts,"{'neg': 0.0, 'neu': 0.3, 'pos': 0.7, 'compound': 0.7906}",Positive,0.475,5
+"Anyone is know the same projects like this Titanic by the difficulty?
+I need project easy as this Titanic))","{'neg': 0.105, 'neu': 0.658, 'pos': 0.237, 'compound': 0.4588}",Positive,0.4791666666666667,19
+"Hi Ken, I want to say thank you for this wonderful explanation and this break down of what a data science project workflow typically looks like. Amazing job!!
+Just one question when you use pd.get_dummies shouldn't you set drop_first parameter to true that way you use one less column and not worry about multicollinearity in the new columns generated","{'neg': 0.0, 'neu': 0.712, 'pos': 0.288, 'compound': 0.9599}",Positive,0.5514430014430015,60
+"I'm here because of GPT4. Before GPT4 was released, I had a decent basic understaning of data science applications, but did not have the time to learn all of the Python syntax. Now, with GPT4, all I have to do it understand how to explain what i want to do, and GPT4 takes care of all the coding. It wouldn't be hard to create this entire notebook in 2-3 hours of time. 
+
+Wild times we live in!","{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.8456}",Positive,0.4763888888888889,79
+why am I not getting anything what he says. I am still taking the Google Data Analytics course and I have some knowledge of SQL are they not enough for me to understand what he says ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.5,36
+"Thank you for the content!
+I copied the code below from you, but it didn't work for me. I wonder why?
+
+for i in df_cat.columns:
+    sns.barplot(df_cat[i].value_counts().index, df_cat[i].value_counts()).set_title(i)
+    plt.show()
+
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+/tmp/ipykernel_29/2425305365.py in <module>
+      2 
+      3 for i in df_cat.columns:
+----> 4     sns.barplot(df_cat[i].value_counts().index, df_cat[i].value_counts()).set_title(i)
+      5     plt.show()
+
+TypeError: barplot() takes from 0 to 1 positional arguments but 2 were given","{'neg': 0.069, 'neu': 0.899, 'pos': 0.031, 'compound': -0.4753}",Negative,0.2722222222222222,78
+"hi, thanks for this explanation I have a question is this dataset suitable for semantic annotation and event extraction?","{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4404}",Positive,0.475,19
+U did feature Engineering first?? Then remove outliers 🤔,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.3333333333333333,9
+"Strange. I thought the answer was, 'women and children in first class'. That's what I got and some other people.","{'neg': 0.096, 'neu': 0.904, 'pos': 0.0, 'compound': -0.2023}",Negative,0.2861111111111111,21
+you are a genius!!!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,4
+"I learned so much from your video, thank you!","{'neg': 0.0, 'neu': 0.715, 'pos': 0.285, 'compound': 0.4199}",Positive,0.2,9
+https://www.youtube.com/channel/UC9zVmz9afR7wIfE_xLPbwCg,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,2
+"I am taking the test, but it sounds impossible to pass ! Any idea to the test","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,1.0,16
+I'm very very very soooooo much,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.29500000000000004,7
+"Thanks, Ken for this great video. Can you please explain, how did you measure that the Model XGboost is overfitting?","{'neg': 0.0, 'neu': 0.628, 'pos': 0.372, 'compound': 0.8772}",Positive,0.475,20
+The music in the background is very distracting. I keep looking around for the noise.,"{'neg': 0.161, 'neu': 0.839, 'pos': 0.0, 'compound': -0.3597}",Negative,0.3,15
+Thanks for the video! I have some DS experience but it was very helpful to see how an expert would approach a Kaggle problem.,"{'neg': 0.123, 'neu': 0.657, 'pos': 0.221, 'compound': 0.4275}",Positive,0.25,24
+"im a beginner at this and have a question: where is the actual tuning going on? i.e. how do you ""improve"" your score? because anyone can just run these ML models on the data, so is it in the preprocessing steps","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.1,41
+I'd like to say that I discovered a gem of a channel today.,"{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}",Positive,0.0,14
+"Hi Ken, thank you so much for the video! It's super helpful! One quick question: when creating dummies for categorical variables, did you also create dummies for variable 'norm_fare'? Based on my understanding, 'norm_fare' is a continues variable, but it is included in the list of variables which we were trying to get dummies from (all_dummies = pd.get_dummies(all_data[['Pclass','Sex','Age','SibSp','Parch','norm_fare','Embarked','cabin_adv','cabin_multiple','numeric_ticket','name_title','train_test']])).","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.7804}",Positive,0.45555555555555555,71
+Great video Ken!! I am a begineer in Data Science. Can you please explain the reason for creating dummy variables? And why is numeric_ticket included in the training and testing sets?,"{'neg': 0.0, 'neu': 0.731, 'pos': 0.269, 'compound': 0.8606}",Positive,0.75,31
+"As a beginner this was a bit to complex for me, wished if you may have made it a bit more structured and simple","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.41904761904761906,24
+I keep getting tired and demotivated and I keep picking myself up to learn this :(,"{'neg': 0.343, 'neu': 0.657, 'pos': 0.0, 'compound': -0.7411}",Negative,0.85,15
+Very helpful,"{'neg': 0.0, 'neu': 0.244, 'pos': 0.756, 'compound': 0.4754}",Positive,0.3,2
+can you pls do more kaggle projects pls 🙏❤️,"{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.1531}",Positive,0.5,9
+"Hi Ken, Thank you very much for this video. I am getting an error at section 11 - ---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+<ipython-input-108-e13c5926f5bf> in <module>()
+----> 1 sns.barplot(df_cat[i].value_counts().index.df_cat[i].value_counts()).set_title(i)
+      2 plt.show()
+
+AttributeError: 'Index' object has no attribute 'df_cat' I have put in df_cat in section 7 like you did. I don't know what I am doing wrong. If anyone can help I would greatly appreciate it. Thanks","{'neg': 0.108, 'neu': 0.704, 'pos': 0.188, 'compound': 0.7056}",Positive,0.41809523809523813,75
+"Thank you for this video!  On a separate note, how do you get your plots to be so colorful?","{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.4199}",Positive,0.4,19
+"fantastic video, my friend. I started this project in R studio, ran into some walls, and got extremely frustrated. Listening to your process is extremely helpful. Thanks for the upload.","{'neg': 0.093, 'neu': 0.578, 'pos': 0.329, 'compound': 0.8548}",Positive,0.5750000000000001,30
+"Thanks so much, i feel happy that i could undersrand 90% of the content months ago i didnt knew a thing!","{'neg': 0.0, 'neu': 0.677, 'pos': 0.323, 'compound': 0.7995}",Positive,0.4666666666666666,21
+"Hello, Ken, I wanna know about if there are many files in the data set in kaggle competition, how can I use Jupyter or colab to do code. Thanks a bunch.","{'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.4404}",Positive,0.35,32
+"very helpful, thank you. comment for the algorithm.","{'neg': 0.0, 'neu': 0.505, 'pos': 0.495, 'compound': 0.707}",Positive,0.3,8
+"Hello Ken, was it R you used in this analysis ?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,10
+"Thanks a lot for this video, having learning a lot of things and didn't know how to tie all the ropes together. This video was for it. Thanks a lot Ken Jee :)","{'neg': 0.0, 'neu': 0.754, 'pos': 0.246, 'compound': 0.8316}",Positive,0.4666666666666666,33
+13:27 why exactly do you choose 'Ticket' for values in the pivot-table? Dont understand that,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4019}",Positive,0.25,15
+"Hello, beginner data scientist. Great video! I'm trying this out and my pivot table outputs don't have scrollbars. What could be the reason? I would want to view all the columns via the pivot table. 
+
+I'm using Kaggle. 
+
+Thanks.","{'neg': 0.0, 'neu': 0.803, 'pos': 0.197, 'compound': 0.8221}",Positive,0.475,42
+"Ken, I Think about the project planning which on Histogram and Boxplot should be place after missing data,
+So Here's the plan order from the top
+- understand the Type of data 
+- value counts
+- missing data
+- histogram and boxplot
+Then continue by following step you make from
+- correlarion analysis 
+- exploring interesting fact
+Until scaling","{'neg': 0.075, 'neu': 0.806, 'pos': 0.118, 'compound': 0.3612}",Positive,0.24000000000000005,54
+Huge thanks from beginner DS switching from mechanical engineering!,"{'neg': 0.0, 'neu': 0.56, 'pos': 0.44, 'compound': 0.6696}",Positive,0.55,9
+"Hey Ken! I know this is an old video, but I was watching this again to plan a project that I am planning to work on. At the exploratory analysis part, you say that age looks like it is normally distributed. However, I'm pretty sure that if we run a Shapiro-Wilk test on it, it will turn out to be non-normal. So, I am wondering what do you mean by 'looks normally distributed' here? Are you looking for extremely skewed distributions to normalize? Thanks! Go #66daysofdata =)","{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.9665}",Positive,0.6973765432098766,87
+"Could u please tell how did you change color to black of ""Out""s ?","{'neg': 0.0, 'neu': 0.827, 'pos': 0.173, 'compound': 0.3182}",Positive,0.43333333333333335,14
+"Ken, I'm a long time listener first time caller :) This is a terrific video .. and I have one question!  
+
+... at around 22:00 you clearly tell us that concatenating training and test datasets together and then pre-processing them all together is NOT the way it should be done in real -world (real world way, as I understood: train encoder scaler on training dataset then transform test dataset using encoder scaler trained (only) from training dataset). 
+
+So .. do you have (or do you know of one) similar to this one but which demos the real world way of doing business?","{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.636}",Positive,0.5416666666666667,99
+Hey Ken! I am copying this project to understand the process. I am confused about the explanation you give on using all_data vs training & test data separately. Can you explain why training and test sets should be processed separately by giving a bit more background? Thanks!,"{'neg': 0.047, 'neu': 0.825, 'pos': 0.127, 'compound': 0.5944}",Positive,0.4666666666666666,46
+"Great work!  I was just wondering why you would create dummy variables for features like ""Age"", ""SibSp"", ""Parch"". These features are either float or int. They are continuous and not categories/strings like name_title.","{'neg': 0.0, 'neu': 0.709, 'pos': 0.291, 'compound': 0.8883}",Positive,0.75,33
+"Hi Ken, any reason for calling fit() method twice on rf? I mean best_estimator is used already. It is not the case with xgb..","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.54375,24
+"Thanks a lot!
+I'm just beginning with Data Science. I 'don't understand, why you transform ""norm_Fare"" to a Dummy-Variable with 0/1?","{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.4926}",Positive,0.2,23
+"Great video! Do you perhaps know whether should beginner in ML have good knowledge of statistics to even start learning it, and advanced knowledge of calculus and linear algebra?","{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.8516}",Positive,0.65,29
+"Thanks for sharing. From start to finish to this video, how many hours did you work on? I just want to benchmark myself accordingly.","{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.7184}",Positive,0.35,24
+thanks Ken this was really helpful,"{'neg': 0.0, 'neu': 0.4, 'pos': 0.6, 'compound': 0.7178}",Positive,0.2,6
+"Thank you for this great video! I've already subscribed to your channel, digging to find a lots of DS insights )) 
+But please improve the audio quality in future videos: background noises are really frustrating, and a background music seems to be a little bit loud. 
+But again, you're making a great resource that is very useful for Data Science beginners like me!","{'neg': 0.052, 'neu': 0.624, 'pos': 0.323, 'compound': 0.9724}",Positive,0.5464285714285715,64
+"Hi Ken Jee, thanks a lot for the video! Can you please share on Feature Engineering on Cabin? What does the number 0-4 indicates? I don't get that part. Thank you!!","{'neg': 0.0, 'neu': 0.659, 'pos': 0.341, 'compound': 0.8869}",Positive,0.2,32
+"I have a question. in the preprocessing stage you use test set along with training set and you said you do it because in this case we want to know about the test set, but I don't know why. aren't we supposed to predict the output of test set? why do we need to have some information about it in our prediction model then? isn't data leakage happening here?","{'neg': 0.0, 'neu': 0.975, 'pos': 0.025, 'compound': 0.1754}",Positive,0.0,72
+"thank you sir to make this video I can't explain it in words.
+how much information in this video. which is really helpful for me to become a good data scientist. thank you so much","{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.8748}",Positive,0.3,36
+"Hey ken I have a question I’ve spoken to you before , back when I was getting started with the google data analytics certificate I’m done with the program now and I noticed they didn’t teach us how to create models and test sets and stuff … what would you suggest I do next ? I’m guessing machine learning is an important aspect of being a data analyst .. should I take a course on that and get that out of the way ?","{'neg': 0.0, 'neu': 0.943, 'pos': 0.057, 'compound': 0.504}",Positive,0.3333333333333333,88
+"Thank you Ken,
+just now I finished one course that focused on Titanic survival, your attitude makes more sense for me.","{'neg': 0.0, 'neu': 0.779, 'pos': 0.221, 'compound': 0.6249}",Positive,0.5,21
+"Hi Ken! Thank you for this and all other videos. That's very generous of you. Very valuable information.
+My company is suscribed to Coursera and I was wondering which opinion you have of their Data Science courses. I have seen many of your videos, but I think you haven't named it. Is it because cost, quality?","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.6741}",Positive,0.36875,58
+"I know this is random question, but to make sure I'm understanding the data, at 14:59 does the last row mean that 2 people had 5 cabins?","{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.4497}",Positive,0.5357638888888889,28
+woo!,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5255}",Positive,0.0,1
+How long does analysis and mode building like this take?,"{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}",Positive,0.4,10
+Is this a binary logit model?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,6
+9:44,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,1
+"Hello,
+
+I ran this code and received no output:
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+
+Input data files are available in the read-only ""../input/"" directory
+For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
+import os
+for dirname, _, filenames in os.walk('/kaggle/input'):
+for filename in filenames:
+print(os.path.join(dirname, filename))
+
+
+
+Also, I received a FileNotFoundError after running the second line of code:
+
+train_data = pd.read_csv(""/kaggle/input/titanic/train.csv"")
+train_data.head()
+
+I downloaded the necessary csv files to a folder on my desktop
+
+
+
+I would greatly appreciate any suggestions on how to proceed further.","{'neg': 0.021, 'neu': 0.927, 'pos': 0.052, 'compound': 0.4927}",Positive,0.53,109
+this level of coding is scaring me,"{'neg': 0.326, 'neu': 0.674, 'pos': 0.0, 'compound': -0.4404}",Negative,0.0,7
+"Hey Ken Jee, thank you for the video, it's helping me a lot. :) I wanted  to ask though, how did you know that you overfitted (the spoiler alert) with XGBoost?","{'neg': 0.0, 'neu': 0.772, 'pos': 0.228, 'compound': 0.7717}",Positive,1.0,31
+"Very cool! By the way, you wrote ""compention"", instead of ""competition"" in your notebook's opening remarks <3","{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.6989}",Positive,0.9225000000000001,18
+You did a great job explaining your approach to solving the task at hand and walking us through the process and so Im wanting to know what would be the next steps for someone wanting to use this competition to learn data science?  Like I dont have a detailed understanding of all  the algorithms that you used in this competition so  would it be best to pick the one that produced the best score and learn how to tune that particular algorithm model metrics to get a better score or would it be best to transfer your process to another beginner competition altogether to create a better understanding of the complete data science process as a whole?,"{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.9862}",Positive,0.41212121212121217,117
+Would you consider doing one for the linear regression example you suggested on your 3 beginners’ projects? It’s the Aimes housing prices project,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,26
+"Really awesome! My only minor criticism is that in the first half of the video, most of the pivot tables and charts are displaying counts. When comparing counts between categories (i.e. survival rate by age) it really needs to display the percentage of that grouping... Sadly I'm too much of a noob to figure it out just yet :(","{'neg': 0.15, 'neu': 0.785, 'pos': 0.065, 'compound': -0.5717}",Negative,0.56,59
+Thanks Ken. I loved the video! Do you have any videos that deal in more detail with the correlation heat map output in line 9? I would love to know more about what I can learn from this and when to use it.,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.906}",Positive,0.52,43
+"hi ken jee! one question for you! about the dummy variables! for example there are 3 categories, so 3 dummy variables would be created for that column, then do we need to remove one dummy variable, because the 3 dummy variables would be linearly dependent with each other?","{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.4359}",Positive,0.375,48
+"Thank you for this video and your explanation how you approach data science problems. I was just able to reach the baseline from the Titanic tutorial by my own approach with XGB and GridsearchCV.
+
+Did you tried stacked denoising autoencoder in your projects and how did it work out? It is kinda like an automatic unsupervised learning approach that can be fed into a neural network.
+
+Your channel is golden! Keep it up and stay healthy!","{'neg': 0.033, 'neu': 0.854, 'pos': 0.113, 'compound': 0.6587}",Positive,0.65625,76
+"I didn't understand almost 50% of the walkthrough,  got after EDA ☹☹😫.
+This walkthrough seems to be a bit too advanced.😲","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,22
+I have a question @24:15 after you made some changes for the entire dataset you split the data to train and test so doesn't this cause data leakage?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.625,29
+"Thank you Ken Jee for your video. I have a question maybe you could help me with. Why did you assume/make the variables age and fair price as categorical instead of continous?","{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.7579}",Positive,0.9,32
+"Hi Ken, 
+
+Thanks so much for your videos; I find them really encouraging and instructive.
+
+I am wondering, how does the intuition we build about the data inform how we set up the models?
+If feels like there was a bit of a disconnect there, and right now if feels like I just turn on these black box
+models and get a prediction with little understanding of the variables ...
+
+Thanks!","{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.9298}",Positive,0.32414965986394556,70
+You should provide timestamps for such big video.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.3,8
+overall great tutorial but fast.,"{'neg': 0.0, 'neu': 0.611, 'pos': 0.389, 'compound': 0.3716}",Positive,0.45,5
+Great! Very inspiring and helpful!,"{'neg': 0.0, 'neu': 0.156, 'pos': 0.844, 'compound': 0.8966}",Positive,0.875,5
+"Just came here to see what you got. I used random forest and got .76 on my first try and then a little tuning got it to .77. I think I could make it better so I will continue to play around. I got to the point in my course curriculum mid-lecture I said ""this is more advanced than I need to get started on beginner projects"" and instantly hopped off to do titanic. I had it all worked up in my head to be some super hard task but it turned out to be relatively painless! I am going to do a couple other smaller projects and then try something of my own, probably using youtube data because I am a massive geek for the algorithim.","{'neg': 0.028, 'neu': 0.883, 'pos': 0.089, 'compound': 0.7535}",Positive,0.5488095238095239,127
+You are my absolute Guide to data science. THANKYOU KEN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.9,10
+"Thanks Ken Lee, great video. Question: i am working on a different dataset with not many features (ca 12-15). it is an imlabanced dataset with not a lot of '1' but loads of '0'. I am using TomekLinks to balance it out a bit. My highest F1 score is 5%, and whatever i do i cannot make it any higher than that. Do you think this is an example of a project where I will not be able to build a decent model?","{'neg': 0.0, 'neu': 0.94, 'pos': 0.06, 'compound': 0.5423}",Positive,0.5488095238095237,84
+"Since the test set has no output (Survival), should we even consider it in our EDA? Why not doing just on top of the training set?","{'neg': 0.09, 'neu': 0.846, 'pos': 0.063, 'compound': -0.1926}",Negative,0.5,26
+What keyboard do you use?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,5
+sir can you tell your background music?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,7
+Awesome tutorial. I have a question. Why do you log normalize Sibsp and Fare in addition to using StandardScaler? What does the log normalization accomplish that the StandardScaler doesn't?,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.8053}",Positive,1.0,30
+This video is gold!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,4
+"Super informative, thanks Ken!","{'neg': 0.0, 'neu': 0.22, 'pos': 0.78, 'compound': 0.7959}",Positive,0.43333333333333335,4
+"Amazing video. I got a question, don't we need to detect the outlier data in the models? or its not a necessary step in calcification?","{'neg': 0.0, 'neu': 0.835, 'pos': 0.165, 'compound': 0.6322}",Positive,0.95,26
+"Hi Ken, Great Video.
+I have a doubt though, when you say you are creating categories based on the first letter of the cabin why are you ignoring the second letter (some have different lettered cabin as the second cabin). eg -> F E69","{'neg': 0.107, 'neu': 0.763, 'pos': 0.13, 'compound': 0.2732}",Positive,0.3366666666666666,43
+"34:18 Ken, what does the parameter initialization of weight mean. can you explain","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.6875,13
+"Thank you so much for your videos, I watch them all the time.  I'm in a masters DS program, and I feel like I'm actually on the titanic right now, going down down down.  Here you are handing me a raft, a dingy, and also giving me a map to a huge lush closeby island where there's an escape airport.","{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.8555}",Positive,0.36279761904761904,63
+"Hi Ken, Great video. thanks .sorry for a very basic question but how did you get the baseline numbers? I am trying to get them but unable to do so i.e. Naive Bayes (72.6%),Logistic Regression (82.1%), Decision Tree (77.6%) etc.","{'neg': 0.096, 'neu': 0.801, 'pos': 0.103, 'compound': 0.0727}",Positive,0.5225,41
+take a drink every time ken says actually.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.1,8
+"Hey, It was kind of advanced for me to do it on my own. What should I learn before doing these projects, can you share some source. Thanks for the amazing video","{'neg': 0.0, 'neu': 0.718, 'pos': 0.282, 'compound': 0.8627}",Positive,0.72,32
+please improve audio quality,"{'neg': 0.0, 'neu': 0.278, 'pos': 0.722, 'compound': 0.6369}",Positive,0.0,4
+"Hi Ken jee, what is the process and techniques to do data mining ?? , do I need to do separate course on data mining for datascience?? I'm stuck in this phase  pls help me out this","{'neg': 0.051, 'neu': 0.821, 'pos': 0.127, 'compound': 0.4515}",Positive,0.0,36
+Hi Ken. Great video and walk-through. One question - why have you created dummy variables on the numeric features?,"{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.7269}",Positive,0.75,18
+Hello Ken. Is there any book that will help me learn which features I should use and which features to drop.,"{'neg': 0.092, 'neu': 0.789, 'pos': 0.118, 'compound': 0.1531}",Positive,0.0,21
+May i ask you which IDE you use to run python codes or for data science works.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,17
+Dude you are terrible in explaining things in a pedagogical what. Impossible to follow your quick scrolling.,"{'neg': 0.171, 'neu': 0.829, 'pos': 0.0, 'compound': -0.4767}",Negative,0.8333333333333334,17
+Can you do more videos on EDA?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.5,7
+I bet The Countess survived :V,"{'neg': 0.0, 'neu': 0.548, 'pos': 0.452, 'compound': 0.5106}",Positive,0.0,6
+"Hello there :)
+
+I haven't watched the full video yet, but there's a reason for this and is linked to a suggestion I'd like to propose to you for similar videos in the future:
+
+Despite being very VERY green in this, I decided to have a first go at this all by myself ... and boy was and is it still frustrating :P The reason behind this was that I wanted to try a first attempt without a guiding hand. Once I finished my first model, I quickly realized that there were tons of ways where I blundered like a total noob ... which is actually totally fine :) And despite the frustration of the experience, it felt like I gathered valuable experience from this.
+
+And it is only now that I am starting to watch this video .. but only bit by bit, as I want to try to do as much by myself as possible (mistake be damned since they are being done at home where it won't hurt anyone and where I can learn safely from the experience).
+
+SO my suggestion is this:
+Could it be possible for future similar videos to have it in several parts? Or, at the very least, to timestamp the different section of your handling of a particular problem? I feel like it could be very valuable, especially for very recent newcomers like me. 
+
+Anyways, thanks a ton for your videos, very much appreciated ! (especially some of the code where you use apply and lambda functions to handle data transformations, this is definitely something that will be useful for me in the near and long future! :)
+
+Signed:
+A total newbie at this.","{'neg': 0.048, 'neu': 0.731, 'pos': 0.221, 'compound': 0.9955}",Positive,0.5291056910569105,279
+"I gotta be honest here, started learning Data Science on my own but every now and then I become lazy AF and I just stop for a period of 2-3 weeks. It's difficult to be consistently committed to the program and learning. Although I hope I slowly complete the training.","{'neg': 0.166, 'neu': 0.679, 'pos': 0.155, 'compound': -0.1655}",Negative,0.7583333333333334,52
+Hi Ken....Deniz is speaking from Turkey! Your videos are helping me a lot! You force me to keep up :),"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.6988}",Positive,1.0,20
+"""y_hat_base_vc = voting_clf.predict(x_test_scaled).astype(int)
+basic_submission = {'PassengerId': test_data.PassengerId, 'Survived': y_hat_base_vc}
+base_submission = pd.DataFrame(data=basic_submission)
+print(base_submission)
+base_submission.to_csv('base_submission.csv', index=False)"" 
+I executed the above code(same as Ken used) but i getting an error as ""array length 889 does not match index length 418"".
+Can anyone please help me?","{'neg': 0.079, 'neu': 0.777, 'pos': 0.144, 'compound': 0.4497}",Positive,0.1,47
+"U have a best data science chanel, I love u","{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.8555}",Positive,0.44999999999999996,10
+"Wow what a in-depth analysis. You really put a lots of efforts into this. This is my first try in Kaggle too, after spending this much time i wonder how much time it will take for even tougher Data , i also checked the House Rent Competition. It have 81 Features. how can we do such a detailed analysis on all the features. Not sure how the real-world ML problems are solved where they might have 100 or even more features. I am really excited to know more :)","{'neg': 0.05, 'neu': 0.804, 'pos': 0.146, 'compound': 0.837}",Positive,0.5685185185185185,87
+This video is a great help!,"{'neg': 0.0, 'neu': 0.297, 'pos': 0.703, 'compound': 0.7959}",Positive,0.75,6
+"Hello Ken, really cool video. I have a question for you. You gave us all the important variables that contributed to the model at around 32:30. I was wondering, with those variables in mind, are we able to dig a little deeper and see what the actual values were that contributed most to the model? 
+If that sounds confusing, here is an example. Age is the second most significant variable in the model. If we can program what I just asked you, the model would ""spit"" out ages 15-18 years, I do not know if that's true, old were the most significant and contributed most to the model. 
+This is my first data science project, so I want to apologize in advance if my words do not sound ""data sciency"" enough.","{'neg': 0.014, 'neu': 0.856, 'pos': 0.13, 'compound': 0.9115}",Positive,0.5060185185185185,132
+"Hi, Ken, when tuning the model for random forest, you use RandomizedSearchCV and then GridSearchCV. Your comment is 
+""Because the total feature space is so large, I used a randomized search to narrow down the paramters for the model. I took the best model from this and did a more granular search ""
+Do your mean the GridSearchCV' parameters are based on the its above RandomizedSearchCV' results?","{'neg': 0.0, 'neu': 0.936, 'pos': 0.064, 'compound': 0.6369}",Positive,0.4394400352733686,66
+The brightness is very high . I cant see the wall clocks...,"{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.3818}",Positive,0.702,11
+"First of all Thanks Ken for this, and secondly it's a request if you can make a dedicated video on how data analysis can work in cricket, I know you may not be knowing about the game but I really want to implement some data analysis into the game of cricket, so just need your help and it will do great if you make a video on the same. Have a good day mate.","{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.9577}",Positive,0.33425925925925926,75
+"Hi, Ken, what's the purpose of log norm the fare? And why we need to scale the 'Age','SibSp','Parch','norm_fare'","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,22
+"Sadly, the Captain did NOT survive","{'neg': 0.359, 'neu': 0.641, 'pos': 0.0, 'compound': -0.4215}",Negative,1.0,6
+"Not gonna lie, when I first saw the Name of the video, I thought this was about some kind of kegel exercise","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.6166666666666667,23
+"bro your videos are very helpful...please suggest me. how do I increase my data preprocessing, data analysis skills. few tips ?","{'neg': 0.0, 'neu': 0.887, 'pos': 0.113, 'compound': 0.3182}",Positive,0.2,21
+Thanks Ken... I just got my physics degree and i want to become a data scientist..Your videos are helping a lot! Thanks,"{'neg': 0.0, 'neu': 0.593, 'pos': 0.407, 'compound': 0.8221}",Positive,0.2,23
+"Thank you for this. This was my dabble in data science and I may not have understood all of what you did, but I'm happy I tried it. Where should I go from here? I am thinking about taking the data science bootcamp course on Udemy.","{'neg': 0.0, 'neu': 0.855, 'pos': 0.145, 'compound': 0.7783}",Positive,1.0,47
+Thanks Ken!,"{'neg': 0.0, 'neu': 0.239, 'pos': 0.761, 'compound': 0.4926}",Positive,0.2,2
+"Hi Ken, any tips for freshers ?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,6
+"Hello really appreciate your efforts.
+I'm ML beginner, done with only theory algorithms no hands on experience yet.
+How should I start and from where ? Need few suggestions.","{'neg': 0.073, 'neu': 0.828, 'pos': 0.099, 'compound': 0.2006}",Positive,0.43333333333333335,29
+Thanks ken— never used Kaggle or even done any data science projects. The detailed analysis (including the nuances MOST IMPORTANTLY) is really making this digestible— not to mention applicable,"{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.4404}",Positive,0.4125,29
+Amazing video! I hope you do a similar video on regression and clustering problems in the future!,"{'neg': 0.123, 'neu': 0.546, 'pos': 0.331, 'compound': 0.6792}",Positive,0.47500000000000003,17
+"Hey,
+I am a new fork 😁
+I just want to know what can be considered as a good score for this problem?
+I scored 0.75837
+And I see thousands of people with score of perfect 1
+
+So just confused 🤪
+
+Please help me with you thoughts","{'neg': 0.114, 'neu': 0.622, 'pos': 0.264, 'compound': 0.7551}",Positive,0.6886363636363637,47
+This is great walkthrough for beginner like me. Thanks Ken Jee,"{'neg': 0.0, 'neu': 0.457, 'pos': 0.543, 'compound': 0.8591}",Positive,0.475,11
+"Hi Ken, great video. Thank you!
+Please consider making a similar video with panel data!","{'neg': 0.0, 'neu': 0.537, 'pos': 0.463, 'compound': 0.8585}",Positive,0.575,15
+"Hi Ken, I have to predict a binary classification, the dataset has two columns with monetary information, both have right-skewed distribution. If i scale columns and /or apply log transformations, accuracy gets worse. Why could that be ? Even by removing outliers (percentile 98 or 99) it also gets worse, Thanks !","{'neg': 0.122, 'neu': 0.824, 'pos': 0.054, 'compound': -0.5562}",Negative,0.4666666666666666,50
+"is regression or classification harder? I don't know which one I should start learning first. In stats, we only learned regression and never classification. Thanks","{'neg': 0.099, 'neu': 0.901, 'pos': 0.0, 'compound': -0.3412}",Negative,0.3833333333333333,26
+Loving this video and the thumbnail dude!,"{'neg': 0.0, 'neu': 0.589, 'pos': 0.411, 'compound': 0.636}",Positive,0.95,7
+"Hi Ken, thanks for the help on learning about data science. I struggle a lot using Kaggle to learn python. The user experience for me is quite intimidating compared to other platforms I used as there are times even when I know the question, I get lost on how to answer and follow the steps.","{'neg': 0.133, 'neu': 0.771, 'pos': 0.096, 'compound': -0.2944}",Negative,0.2875,55
+Thank you for the great video! It's very helpful! ^_^,"{'neg': 0.0, 'neu': 0.405, 'pos': 0.595, 'compound': 0.8828}",Positive,0.525,10
+"Hi Ken, your videos are really helpful for beginners like me. Can you do a similar walk-through video for House Prices problem as well.... thanks in advance.","{'neg': 0.081, 'neu': 0.663, 'pos': 0.256, 'compound': 0.6997}",Positive,0.26666666666666666,27
+"Ken,  I really love what you do on your channel.  I hope you don't mind, but I've mentioned your channel on my first Medium article about my story. posted here:
+https://medium.com/@davidlee_41200/my-inspirational-journey-in-starting-data-science-with-no-code-experience-through-12-weeks-of-35362800886a
+You can delete my post as I'm not trying to self promote here. 
+Thank you for what you do man!  I'm starting bootcamp tomorrow while learning from your channel as well.","{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.923}",Positive,0.3444444444444445,68
+"Hi why did you type training[""train_test""] = 1
+test['train_test'] = 0
+test['survived'] = np.NaN","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,14
+Love your content man! Keep it up 100k subs is just around the corner!,"{'neg': 0.0, 'neu': 0.731, 'pos': 0.269, 'compound': 0.6988}",Positive,0.6,14
+Looking forward to more videos like this . It's incredibly helpful to get an experienced viewpoint on how to think about and dissect these sorts of problems.,"{'neg': 0.086, 'neu': 0.729, 'pos': 0.186, 'compound': 0.489}",Positive,0.7666666666666666,27
+"You have saved us hours of self-exploration! Thank you, Ken :D Hope you can make more videos like this!","{'neg': 0.0, 'neu': 0.473, 'pos': 0.527, 'compound': 0.9392}",Positive,0.75,19
+"Hey Ken, 
+I have recently did my submission for this topic on KAGGLE. I got a score of 79.904% on my 2nd second submission using KNN for classifying. I have submitted my notebook under the title ""TOP 9%: 0.79904 USING KNN"".I want to score above 80%.
+Can you please check and like give me feedback about how I did and what I should improve on?","{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.8602}",Positive,0.16999999999999998,66
+I think it would be great if you could show how you would present this project in a markdown file in order to add it to your github. Thanks for the great work!!!,"{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.9182}",Positive,0.425,33
+"Hi Ken, 
+I know this is not a  correct forum to ask this.....but still
+https://stackoverflow.com/questions/62978419/creating-a-new-corpus-with-nltk-nlp
+can you help me with this......thanks in advance!!!!:)","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.5951}",Positive,1.0,26
+"Hello,
+Thanks for the video. I heard you told about deep learning for this dataset (included categorical and non categorical features). It is a typical data that we usually see. Could you please make a video and build a deep learning model?","{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.6369}",Positive,0.35,42
+I’d be super interested in seeing you competing in a real Kaggle Competition.,"{'neg': 0.0, 'neu': 0.602, 'pos': 0.398, 'compound': 0.765}",Positive,0.4888888888888889,15
+May I know the best laptop for data scientist? ^^,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.6369}",Positive,0.3,9
+"Hey, Ken can you tell me how cloud computing is connected with data science...and from where to start for this field?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,22
+You’re content is always top class Ken! As a beginner in this field you’ve taught  me so much through your videos. Please keep them coming,"{'neg': 0.0, 'neu': 0.834, 'pos': 0.166, 'compound': 0.5255}",Positive,0.35,29
+I don't understand who are these people to dislike. If you can't support him stop disliking him at least someone is putting in efforts to make knowledge and learning process easy what is the problem of you dislikers.,"{'neg': 0.216, 'neu': 0.679, 'pos': 0.105, 'compound': -0.6212}",Negative,0.6166666666666667,40
+thanks for this video,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",Positive,0.2,4
+Thanks a lot ken jee,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",Positive,0.2,5
+Ken Jee👍👍👍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,2
+"Hey Ken, Amazing video. Where did you learn the feature engineering?. I am always stuck in that part of the projects.","{'neg': 0.084, 'neu': 0.756, 'pos': 0.16, 'compound': 0.4215}",Positive,0.9,21
+Udacity or Coursera to gain valuable data science knowledge???,"{'neg': 0.0, 'neu': 0.499, 'pos': 0.501, 'compound': 0.7929}",Positive,0.0,9
+Literally was looking at this today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,6
+I am glad that I came across your channel. Always wanted to try titanic dataset on kaggle but didn't. now I m gonna try it. thanks.,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.705}",Positive,0.6,28
+This video came at such good timing! I just taught myself python and started the titanic project today but was feeling so unsure about everything! Thank you for your videos!!,"{'neg': 0.094, 'neu': 0.684, 'pos': 0.222, 'compound': 0.571}",Positive,0.55,30
+"Hey Ken! Nice video :) how old were u when u started your data science career? I know it’s a weird question to ask, but still I am little curious to know as I am currently planning to shift my career into Data science field. I am 24 years old and working in Project management. Also I have a bachelors in Mechanical engineering which i think is far away from data science.","{'neg': 0.02, 'neu': 0.878, 'pos': 0.101, 'compound': 0.6545}",Positive,0.7000000000000001,73
+"Love your videos, Ken. They are no-nonsense and stick to just DS. Your content is well made up and your voice is clear. Thanks for sharing your knowledge. I am sure with such quality content you will soon hit 100k subscribers and more.","{'neg': 0.0, 'neu': 0.681, 'pos': 0.319, 'compound': 0.9423}",Positive,0.512037037037037,43
+"Amazing!, i learn a lot with your videos, thanks for sharing your knowledge, hug from Argentina!","{'neg': 0.0, 'neu': 0.54, 'pos': 0.46, 'compound': 0.855}",Positive,0.55,16
+"Since you made a confession at the beginning, Imma hit you with one myself: I'm been trying to study DS consistently for a year and half and bruh... I find it incredibly frustrating. I do not feel particularly smart enough to do projects on my own but I really like your content, so I will stick around. 😬","{'neg': 0.069, 'neu': 0.865, 'pos': 0.066, 'compound': 0.2157}",Positive,0.5227891156462585,59
+"Thanks Ken! I'm working on the same competition and that was super helpful! Quick Q - I'm trying to build up my DS portfolio, do you think it's worth my time to do the whole thing from scratch (i.e. EDA, feature engineering, modelling) and to dwell a bit more on the theoretical stuff? Put another way, is it more important in these types of projects to show knowledge of how these models actually work, or to show that you can use tools and libraries (like sklearn) proficiently?","{'neg': 0.0, 'neu': 0.829, 'pos': 0.171, 'compound': 0.933}",Positive,0.38106060606060604,89
+I sense a rising Kaggle Grandmaster in the future!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.125,9
+"Great job! Thank you so much! 
+Sadly, I have some work at college and couldn't finish the video but I will definitely come back to it hopefully next week.","{'neg': 0.057, 'neu': 0.611, 'pos': 0.333, 'compound': 0.8734}",Positive,0.45,30
+"Great video dude, exactly what i was looking for, its really great to see creators actually listening to the audience and working on it.
+
+Keep it up pal","{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.8588}",Positive,0.4625,28
+"This video was extremely helpful, I have been searching the internet for a video that would walk me through this exact project! Your videos are the best, keep up the good work!","{'neg': 0.0, 'neu': 0.715, 'pos': 0.285, 'compound': 0.8951}",Positive,0.5375000000000001,32
+This is just great,"{'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.6249}",Positive,0.75,4
+I've been following your videos for a while now and making my way through all the microcourses on Kaggle. This is the exact video I was looking for to begin the next stage of learning by diving into some data science projects . Top content and keep up the great work Ken!,"{'neg': 0.0, 'neu': 0.86, 'pos': 0.14, 'compound': 0.7574}",Positive,0.32,52
+"Aw, kaggle series here we goooo ♥️","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,7
+Great job..Please do these sort of videos more often!,"{'neg': 0.0, 'neu': 0.646, 'pos': 0.354, 'compound': 0.6588}",Positive,0.625,10
+"Man, great video! I'm starting on data science and this hands on project explanation was super helpfull!","{'neg': 0.0, 'neu': 0.636, 'pos': 0.364, 'compound': 0.8619}",Positive,0.5055555555555555,18
+"It was a very insightful explanation of this project, really liked it.
+
+And, at cell [5] if you execute training.describe(include = ""all""), it will also give you the values which appear the most for every categorical variable. Which I think can be really helpful.","{'neg': 0.0, 'neu': 0.81, 'pos': 0.19, 'compound': 0.8354}",Positive,0.45,44
+This was much needed... Thank you very much!!l,"{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.4738}",Positive,0.25,9
+"Thank Ken Jee 
+For spending your time during this lockdown for educating youngsters like us","{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.6124}",Positive,0.0,15
+"Hi ken Great Video, I just completed your 7 part data science from beginning series. I am a beginner in data science and your video helped me a lot. Thanks 😊","{'neg': 0.0, 'neu': 0.767, 'pos': 0.233, 'compound': 0.7906}",Positive,0.475,31
+Thank You  Ken for providing this video...your new subscriber from India...🧡✌,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}",Positive,0.45454545454545453,13
+Nice insights Ken Jee. In fact I remember working with this dataset in my early days of ML :),"{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.7003}",Positive,0.7666666666666666,18
+"Thanks Ken, I was waiting for this video , Good Luck","{'neg': 0.0, 'neu': 0.405, 'pos': 0.595, 'compound': 0.8316}",Positive,0.4,10
+Learned something new - VotingClassifier!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.45454545454545453,4
+Thanks!,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4926}",Positive,0.2,1
+"Keep up with great the work you've been doing in this channel ken, really helping us beginners.","{'neg': 0.0, 'neu': 0.695, 'pos': 0.305, 'compound': 0.7645}",Positive,0.475,18
+👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Neutral,0.0,1
+"Hi Ken, Please create a separate play list for kaggle videos. 🙂","{'neg': 0.0, 'neu': 0.507, 'pos': 0.493, 'compound': 0.7003}",Positive,0.0,12
+"Thanks a lot Sir, this help me a lot to clear my doubts.","{'neg': 0.123, 'neu': 0.393, 'pos': 0.484, 'compound': 0.7525}",Positive,0.29166666666666663,13
+"Ken, Great video and great initiative! Sounds like fun, I also haven't done a Kaggle submission yet, will follow your path and do one soon.","{'neg': 0.0, 'neu': 0.571, 'pos': 0.429, 'compound': 0.9359}",Positive,0.5666666666666667,26
+Thanks! I will try to do this alongside your video! :D,"{'neg': 0.0, 'neu': 0.516, 'pos': 0.484, 'compound': 0.8185}",Positive,0.6,11
+Thank you Ken! Doing this first thing in the morning tomorrow!,"{'neg': 0.0, 'neu': 0.764, 'pos': 0.236, 'compound': 0.4738}",Positive,0.3333333333333333,11
+Just the notification I was waiting for thanks man 👍,"{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}",Positive,0.2,10
+"Thanks for watching! Feel free to upvote the kaggle notebook if you found it helpful! 
+Kaggle notebook: https://www.kaggle.com/kenjee/titanic-project-example
+My Kaggle Profile: https://www.kaggle.com/kenjee
+Try watching my kaggle project from scratch series next! https://www.youtube.com/watch?v=r-DR9HBaipU&ab_channel=KenJee","{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.8713}",Positive,0.3333333333333333,37

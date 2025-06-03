@@ -1,0 +1,26 @@
+{
+    "video_id": "8igH8qZafpo",
+    "num_comments": 228,
+    "avg_sentiment": 0.5079552631578947,
+    "avg_subjectivity": 0.3941402639757807,
+    "avg_word_count": 30.80263157894737,
+    "top_words": {
+        "data": 123,
+        "project": 80,
+        "video": 74,
+        "thanks": 63,
+        "science": 56,
+        "ken": 46,
+        "learning": 45,
+        "thank": 44,
+        "would": 33,
+        "course": 32
+    },
+    "topics": [
+        "Topic 1: to, this, thanks, helpful, in, and, is, really, the, you",
+        "Topic 2: thank, you, ken, for, to, much, the, in, information, cool",
+        "Topic 3: the, to, of, you, and, data, this, ken, start, science",
+        "Topic 4: thanks, the, your, for, to, of, data, man, and, content",
+        "Topic 5: great, you, the, to, and, thank, project, for, data, video"
+    ]
+}

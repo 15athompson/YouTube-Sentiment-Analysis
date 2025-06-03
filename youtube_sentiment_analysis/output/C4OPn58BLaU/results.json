@@ -1,0 +1,26 @@
+{
+    "video_id": "C4OPn58BLaU",
+    "num_comments": 50,
+    "avg_sentiment": 0.39970600000000006,
+    "avg_subjectivity": 0.3283894119769119,
+    "avg_word_count": 25.54,
+    "top_words": {
+        "anaconda": 26,
+        "thanks": 18,
+        "ken": 13,
+        "spyder": 12,
+        "jupyter": 12,
+        "video": 10,
+        "install": 8,
+        "python": 8,
+        "project": 7,
+        "hi": 5
+    },
+    "topics": [
+        "Topic 1: to, you, environment, ramnivas, im, top, spyder, python, is, the",
+        "Topic 2: and, is, data, can, the, my, we, of, model, video",
+        "Topic 3: appreciate, don, you, error, anaconda, and, ken, edition, install, but",
+        "Topic 4: thanks, for, ken, anaconda, the, to, you, this, pycharm, ok",
+        "Topic 5: kite, to, like, the, and, so, has, packages, this, time"
+    ]
+}

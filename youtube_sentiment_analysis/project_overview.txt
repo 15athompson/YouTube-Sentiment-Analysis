@@ -1,0 +1,17 @@
+Why I Built This Project:
+I built this project to understand the implementation process of web scraping using APIs, specifically Google's YouTube API, and performing natural language processing tasks like sentiment analysis using popular libraries such as NLTK and its VADER lexicon. Additionally, I wanted to explore data visualization techniques utilizing Matplotlib and Seaborn.
+
+How I Developed It:
+Firstly, I set up the YouTube API client to fetch video comments based on a specific video ID. Then, I preprocessed the fetched comments by cleaning and tokenizing them before applying the sentiment analysis function provided by NLTK's VADER lexicon. After calculating each comment's sentiment score, I transformed the scores into three distinct classes – Positive, Negative, Neutral. Finally, I presented the obtained information visually through plots and numerically via summary statistics and a CSV file export.
+
+What Did I Learn?
+Throughout this project, I learned about working with third-party APIs, handling rate limits, pagination, and error messages. Furthermore, I brushed up my understanding of various NLP concepts, particularly sentiment analysis. Moreover, I enhanced my skills related to data manipulation and visualization in Pandas and Matplotlib respectively.
+
+Real World Problem Solving:
+This tool could potentially help content creators gauge audience reactions towards their videos more accurately than relying solely on likes and dislikes. By diving deeper into viewer opinions expressed within comments, they may gain valuable insights regarding areas requiring improvement or aspects already resonating positively. Consequently, creators can tailor future productions accordingly.
+
+Mistakes Made & Lessons Learned:
+During development, I encountered several issues mainly due to insufficient familiarity with certain libraries and improper exception handling. For instance, initially, I overlooked adding try-except blocks around API calls leading to abrupt terminations when encountering errors. Addressing these challenges taught me the importance of robust error handling and diligent debugging practices.
+
+Improvements for Next Time:
+For further improvements, consider implementing multi-threading to speed up processing large datasets. Adding user input functionality for selecting video ID would also enhance usability. Lastly, expanding the scope beyond single-video analysis to compare multiple videos simultaneously could provide even richer insights. Overall, refining the UI design, incorporating additional NLP features, and continually updating documentation would contribute significantly to enhancing both utility and accessibility.

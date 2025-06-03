@@ -1,0 +1,26 @@
+{
+    "video_id": "Ip50cXvpWY4",
+    "num_comments": 273,
+    "avg_sentiment": 0.5151611721611722,
+    "avg_subjectivity": 0.35730403915468856,
+    "avg_word_count": 19.234432234432234,
+    "top_words": {
+        "data": 82,
+        "course": 76,
+        "video": 73,
+        "science": 68,
+        "thank": 64,
+        "thanks": 63,
+        "ken": 51,
+        "great": 38,
+        "learning": 37,
+        "learn": 26
+    },
+    "topics": [
+        "Topic 1: not, how, just, kaggle, subscribed, science, courses, data, but, is",
+        "Topic 2: for, you, the, to, it, and, thank, have, in, video",
+        "Topic 3: to, and, for, learning, can, with, statistics, in, like, machine",
+        "Topic 4: thoughts, ibm, their, underrated, certification, sql, haven, mentioned, platform, worth",
+        "Topic 5: you, thank, thanks, ken, are, your, for, great, the, is"
+    ]
+}
