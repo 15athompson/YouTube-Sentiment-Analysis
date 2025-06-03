@@ -1,0 +1,26 @@
+{
+    "video_id": "xpIFS6jZbe8",
+    "num_comments": 222,
+    "avg_sentiment": 0.46984954954954955,
+    "avg_subjectivity": 0.40928551527291024,
+    "avg_word_count": 38.531531531531535,
+    "top_words": {
+        "data": 141,
+        "science": 88,
+        "video": 76,
+        "learning": 68,
+        "ken": 60,
+        "project": 55,
+        "learn": 52,
+        "python": 47,
+        "thank": 41,
+        "thanks": 40
+    },
+    "topics": [
+        "Topic 1: thaks, trying, between, least, eligible, competition, reason, entry, wish, algorithm",
+        "Topic 2: to, and, the, you, data, for, is, in, it, science",
+        "Topic 3: oz3rvth, iu8, youtu, be, https, old, voice, forward, beginning, vid",
+        "Topic 4: good, video, hi, sir, udemy, de, quality, high, link, masters",
+        "Topic 5: great, video, thanks, advice, thank, lot, tech, really, you, lol"
+    ]
+}

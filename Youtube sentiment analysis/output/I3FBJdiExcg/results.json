@@ -1,0 +1,26 @@
+{
+    "video_id": "I3FBJdiExcg",
+    "num_comments": 209,
+    "avg_sentiment": 0.44251531100478475,
+    "avg_subjectivity": 0.409066339899867,
+    "avg_word_count": 30.91866028708134,
+    "top_words": {
+        "video": 94,
+        "ken": 70,
+        "data": 67,
+        "thanks": 57,
+        "great": 36,
+        "project": 32,
+        "thank": 29,
+        "like": 29,
+        "science": 28,
+        "kaggle": 26
+    },
+    "topics": [
+        "Topic 1: thanks, this, is, video, the, to, was, just, and, for",
+        "Topic 2: the, to, in, kaggle, your, you, video, thanks, of, for",
+        "Topic 3: the, you, this, and, ken, video, for, great, jee, of",
+        "Topic 4: you, very, the, to, for, this, is, it, helpful, in",
+        "Topic 5: please, improve, background, my, audio, ken, informative, quality, music, knowledge"
+    ]
+}

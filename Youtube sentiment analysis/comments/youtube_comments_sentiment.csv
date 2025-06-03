@@ -1,0 +1,64 @@
+comment,sentiment_scores,sentiment
+"Great video! Is there any way to connect a personal database to this model? (So that the chat can answer questions based on the information in the database). I have a database in Postgre, already used RAG on it, but I have no idea how to connect the db and the chat. Any ideas?","{'neg': 0.064, 'neu': 0.889, 'pos': 0.047, 'compound': -0.2268}",Negative
+"I had been using the program Ollama on my laptop, and it was utilizing 101% of my CPU's processing power. This excessive usage threatened to overheat my device and decrease its performance. Therefore, I decided that I would discontinue using the program.","{'neg': 0.073, 'neu': 0.927, 'pos': 0.0, 'compound': -0.4588}",Negative
+"""Now we have a prompt and a model, and we need to 'chain' these two together using... LangChain""
+Your way of teaching is very simple to understand 😃👍🏻","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+"Wow, so cool ! You really nailed the tutorial🎉","{'neg': 0.0, 'neu': 0.473, 'pos': 0.527, 'compound': 0.7707}",Positive
+"I have not implemented myself, but I have doubt, you are using langchain where the model is llama 3.1, langchain manages everything here, then what's the use of Ollama ?","{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.5023}",Negative
+"I have found FAISS vector store provides an effective and large capacity ""persistent memory"" with CUDA GPU support. Yes?😊","{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.7003}",Positive
+"PS C:\Windows\system32> ollama pull llama3
+Error: could not connect to ollama app, is it running? 
+
+what seems to be wrong? (sorry for hte noob question)","{'neg': 0.251, 'neu': 0.749, 'pos': 0.0, 'compound': -0.7476}",Negative
+"New to the world of coding. Teaching myself through YT for now and this guy is clearly S Tier.
+
+I like him and Programming with Moshs' tutorials . Any other recommendations? I'd prefer more vids like this with actual walkthroughs on my feed.","{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.7717}",Positive
+"Adding a context, of course, generates interesting results:  context"": ""Hot and Humid Summer""   --> chain invoke result =  To be honest, I'm struggling to cope with this hot and humid summer. The heat and humidity have been really draining me lately. It feels like every time I step outside, I'm instantly soaked in sweat. I just wish it would cool down a bit! How about you?  ...🥵","{'neg': 0.039, 'neu': 0.771, 'pos': 0.19, 'compound': 0.8748}",Positive
+Hello! Tim when i run ollama directly there is no delay in response but using script with langchain some delay appear. Why is that? How to solve it?,"{'neg': 0.214, 'neu': 0.718, 'pos': 0.069, 'compound': -0.565}",Negative
+"You may find it 'amusing' or 'interesting' that when I (nihilistically) prompted with ""Hello Cruel World!',  'llama3.1:8b' responded: "" A nod to the Smiths' classic song, 'How Soon is Now?' (also known as 'Hello, Hello, How are You?')  "" !?!?!🤣","{'neg': 0.145, 'neu': 0.855, 'pos': 0.0, 'compound': -0.7862}",Negative
+"Sadly even though I have 32GB of ram, the 7B ""llama3"" takes up to 1 minute to answer","{'neg': 0.157, 'neu': 0.843, 'pos': 0.0, 'compound': -0.4215}",Negative
+Can you show us how to do RAG with llama3?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+The context will fill up the context windows very fast. You can store the conversations embedings with the messages in a vector database and pull the related parts from it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+"Can You teach us how to implement it in GUI form, i don't want to run the program every time i want help of this type things","{'neg': 0.09, 'neu': 0.81, 'pos': 0.099, 'compound': 0.3085}",Positive
+Thank You.,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",Positive
+"how coincidental, i made this project just 2 days ago","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+Useful. keep doing,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",Positive
+Thank you so much!!,"{'neg': 0.0, 'neu': 0.493, 'pos': 0.507, 'compound': 0.4738}",Positive
+Hi Tim - Now we can download Llama3.1 too... By the way can u also convert this to UI using streamlit,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+do i need vram 4 this ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+ollama now runs llama3.1 and it has a large context window !,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+Where do you get all this stuff from,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+"Hey there, is your VSCode theme public? It's really nice, would love to have it to customize","{'neg': 0.0, 'neu': 0.665, 'pos': 0.335, 'compound': 0.8204}",Positive
+"Wow this is so cool! I really love the tutorial ❤
+Can you please tell if its possible to do it in Google Colab?","{'neg': 0.0, 'neu': 0.56, 'pos': 0.44, 'compound': 0.9342}",Positive
+This is what I need right now!!! Thank you CS online mentor!,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.5673}",Positive
+Cool!! Could I get this to summarize my e-library?,"{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.4374}",Positive
+"This is swag, how can we create a custom personality for the llama3 model?","{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.2732}",Positive
+This is Very useful content Keep it up,"{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.4927}",Positive
+Thanks for saving the day. i been following your channel for four years now,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}",Positive
+Awesomesauce! Tim make more vids covering LangChain projects please and maybe an in depth tutorial! ❤🎉,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.4374}",Positive
+Tim this ollama is running on my cpu and hence really slow can I make it run on my GPU somehow?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+does it require gpu ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+what's the minimum hardware requirement? thank you!,"{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.4199}",Positive
+"I love how you make it easy for us.
+After that we need an UI and bingo.
+Btw, does it keep the answers in memory after we exit? Don't think so, right?","{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.8156}",Positive
+Does respose speed of AI bot depend on gpu like llama ?,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}",Positive
+"Thank you very much for the video, i'm gonna try that :)","{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.6705}",Positive
+"If you need to work with large amounts of data OpenAI performance still can't be matched locally, unless you spend a ridiculous amount on your computer build.","{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.3612}",Negative
+Whenever I get a idea this guy makes a video about it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+Please Tim help me how to add long term (infact ultra long) memory to my cool AI agent using only ollama and rich library. May be memgpt will be nice approach. Please help me!,"{'neg': 0.0, 'neu': 0.587, 'pos': 0.413, 'compound': 0.9516}",Positive
+10th,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+"Can you please refer back to the old way of recording and produce your content 
+
+I really really don't like this new way","{'neg': 0.106, 'neu': 0.802, 'pos': 0.092, 'compound': -0.0905}",Negative
+Tech With Tim is my favorite.,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.4588}",Positive
+❤🎉,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+Zuck <3,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",Positive
+You are legend,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+"Anyone else read Ollama as Obama?
+No?
+Just me? Darn.","{'neg': 0.233, 'neu': 0.767, 'pos': 0.0, 'compound': -0.4098}",Negative
+Nice one,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",Positive
+2nd,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral
+1st,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Neutral

@@ -1,0 +1,26 @@
+{
+    "video_id": "4OZip0cgOho",
+    "num_comments": 480,
+    "avg_sentiment": 0.39805937500000005,
+    "avg_subjectivity": 0.3818731316589144,
+    "avg_word_count": 34.6875,
+    "top_words": {
+        "data": 363,
+        "science": 247,
+        "video": 108,
+        "learning": 91,
+        "learn": 84,
+        "python": 80,
+        "ken": 80,
+        "thanks": 78,
+        "would": 69,
+        "like": 62
+    },
+    "topics": [
+        "Topic 1: thanks, the, for, video, use, was, very, you, to, useful",
+        "Topic 2: thank, you, this, your, for, ken, very, thanks, sharing, love",
+        "Topic 3: video, great, nice, bro, you, still, guy, content, no, 2020",
+        "Topic 4: mind, solid, 50, those, nice, cool, cloud, professional, button, he",
+        "Topic 5: to, data, and, in, science, the, is, for, you, it"
+    ]
+}
