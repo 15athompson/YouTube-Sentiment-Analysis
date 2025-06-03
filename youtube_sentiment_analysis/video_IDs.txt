@@ -1,7 +1,0 @@
-General:
-d0o89z134CQ, tq9yN-j5o3M, hcaVSchVyUM
-
-Ken Jee (data science):
-4OZip0cgOho, I3FBJdiExcg, Ip50cXvpWY4, xpIFS6jZbe8, 8igH8qZafpo, C4OPn58BLaU
-
-[main5.py works]
