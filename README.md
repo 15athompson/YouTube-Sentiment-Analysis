@@ -49,14 +49,16 @@ The tool will print the sentiment analysis results, including:
 
 ## Screenshots
 
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d246bfb6-5efe-45c7-939a-60258af4e20b" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/36ca2fe5-a9c7-4bd7-8178-20de143daee9" />
 
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/5df9da15-82ab-4998-9319-28a41ba9df30" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/0b79a040-d1b5-4991-a674-e1a27b229a69" />
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/c711582e-1fe7-4767-9e6d-ca57babfb922" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bb81fff6-dc2c-4437-9924-cbf2bca59b5b" />
+
 
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
 
