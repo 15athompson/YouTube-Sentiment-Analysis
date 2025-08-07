@@ -47,6 +47,16 @@ The tool will print the sentiment analysis results, including:
 - Sentiment analysis is performed using a pre-trained model and may not always accurately capture the intended sentiment, especially for complex or nuanced comments.
 - The tool currently analyzes only the top-level comments and does not include replies.
 
+## Screenshots
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d246bfb6-5efe-45c7-939a-60258af4e20b" />
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/5df9da15-82ab-4998-9319-28a41ba9df30" />
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/c711582e-1fe7-4767-9e6d-ca57babfb922" />
+
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
