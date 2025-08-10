@@ -23,7 +23,7 @@ nltk.download('stopwords', quiet=True)
 # Set up the YouTube API client
 api_service_name = "youtube"
 api_version = "v3"
-DEVELOPER_KEY = "AIzaSyA7G0j1IqNbGMbsfB-JChhnd7hOH1exRG0"
+DEVELOPER_KEY = ""
 
 youtube = googleapiclient.discovery.build(
     api_service_name, api_version, developerKey=DEVELOPER_KEY)
@@ -194,5 +194,6 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Analyze YouTube video comments")
     parser.add_argument("video_ids", nargs="+", help="YouTube video IDs to analyze")
     args = parser.parse_args()
+
 
     main(args.video_ids)
