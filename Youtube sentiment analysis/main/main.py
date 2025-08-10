@@ -12,7 +12,7 @@ nltk.download('vader_lexicon', quiet=True)
 # Set up the YouTube API client
 api_service_name = "youtube"
 api_version = "v3"
-DEVELOPER_KEY = "AIzaSyA7G0j1IqNbGMbsfB-JChhnd7hOH1exRG0"
+DEVELOPER_KEY = ""
 
 youtube = googleapiclient.discovery.build(
     api_service_name, api_version, developerKey=DEVELOPER_KEY)
@@ -83,4 +83,5 @@ Average Sentiment Score: {avg_sentiment:.2f}")
 df.to_csv('youtube_comments_sentiment.csv', index=False)
 print("\
 Results saved to 'youtube_comments_sentiment.csv'")
+
 print("Sentiment distribution chart saved as 'sentiment_distribution.png'")
