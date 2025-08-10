@@ -16,7 +16,7 @@ nltk.download('punkt', quiet=True)
 # Set up the YouTube API client
 api_service_name = "youtube"
 api_version = "v3"
-DEVELOPER_KEY = "AIzaSyA7G0j1IqNbGMbsfB-JChhnd7hOH1exRG0"
+DEVELOPER_KEY = ""
 
 youtube = googleapiclient.discovery.build(
     api_service_name, api_version, developerKey=DEVELOPER_KEY)
@@ -139,4 +139,5 @@ def compare_videos(all_results):
     print("Video comparison chart saved as 'video_comparison.png'")
 
 if __name__ == "__main__":
+
     main()
